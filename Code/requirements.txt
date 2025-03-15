@@ -1,0 +1,11 @@
+numpy < 2
+pandas
+matplotlib
+openpyxl
+scikit-learn
+seaborn
+torch
+numba
+daal4py
+torchdiffeq
+functools
